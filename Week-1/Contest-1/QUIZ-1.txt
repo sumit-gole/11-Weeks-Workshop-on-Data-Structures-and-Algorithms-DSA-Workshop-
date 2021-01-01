@@ -1,0 +1,71 @@
+How many positive integers between 100 and 999 inclusive are divisible by 3 but not by 4?
+A.225
+B.250
+C.450
+D.75
+      ANS : A.225
+_____________________________________________________________________________________________________________________________________________________
+In how many ways 13 articles can be distributed among 6 employees?
+A.6^13
+B.13^6
+C.66
+D.None of these.
+      ANS : A.6^13
+_____________________________________________________________________________________________________________________________________________________
+What would be the smallest natural number which when divided either by 20 or by 42 or by 76 leaves a remainder ‘7’ in each case is_
+A.3047
+B.6047
+C.7987
+D.63847
+      ANS : C.7987
+_____________________________________________________________________________________________________________________________________________________
+P and Q can do a work in 30 and 60 days respectively. They agreed to work together and finish the work for 1000 Rupees. But they worked only for 10 days. How much money should they together get ?
+A.500
+B.100
+C.800
+D.200
+      ANS : A.500
+_____________________________________________________________________________________________________________________________________________________
+Choose the missing number in the series:
+9, 7, 12, 12, 15, 17, 18, 22, ?
+A.27
+B.21
+C.22
+D.24
+      ANS : B.21
+_____________________________________________________________________________________________________________________________________________________
+A program P reads in 500 integers in the range [0..100] exepresenting the scores of 500 students. It then prints the frequency of each score above 50. What would be the best way for P to store the frequencies? (GATE CS 2005)
+A.An array of 50 numbers
+B.An array of 100 numbers
+C.An array of 500 numbers
+D.A dynamically allocated array of 550 numbers
+      ANS : A.An array of 50 numbers
+_____________________________________________________________________________________________________________________________________________________
+Which of the following operations is not O(1) for an array of sorted data. You may assume that array elements are distinct.
+A.Find the ith largest element
+B.Delete an element
+C.Find the ith smallest element
+D.All of the above
+      ANS : B.Delete an element
+_____________________________________________________________________________________________________________________________________________________
+The minimum number of comparisons required to determine if an integer appears more than n/2 times in a sorted array of n integers is
+A.Θ(n)
+B.Θ(logn)
+C.Θ(log*n)
+D.Θ(1)
+      ANS : B.Θ(logn)
+_____________________________________________________________________________________________________________________________________________________
+Consider an array consisting of –ve and +ve numbers. What would be the worst case time complexity of an algorithm to segregate the numbers having same sign altogether i.e all +ve on one side and then all -ve on the other ?
+A.O(N)
+B.O(N Log N)
+C.O(N * N)
+D.O(N Log Log N)
+      ANS : A.O(N)
+_____________________________________________________________________________________________________________________________________________________
+Which of the following correctly declares an array?
+A.int geeks[20];
+B.int geeks;
+C.geeks{20};
+D.array geeks[20];
+      ANS : A.int geeks[20];
+_____________________________________________________________________________________________________________________________________________________
